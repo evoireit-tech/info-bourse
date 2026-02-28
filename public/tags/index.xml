@@ -6,42 +6,6 @@
     <description>Recent content in Tags on Project Info Bourse</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bourse</title>
-      <link>http://localhost:1313/tags/bourse/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bourse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CAC40</title>
-      <link>http://localhost:1313/tags/cac40/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cac40/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IA</title>
-      <link>http://localhost:1313/tags/ia/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resultats</title>
-      <link>http://localhost:1313/tags/resultats/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/resultats/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WallStreet</title>
-      <link>http://localhost:1313/tags/wallstreet/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wallstreet/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -13,6 +13,44 @@ Les marchés américains ont également fini sur une note positive, portés par 
     - Mercredi : **+0,47%** à 8 559,07 points, nouveau record en clôture.[^2][^1]
     - Jeudi : **+0,72%** à 8 620,93 points, premier franchissement des 8 600 en clôture.[^1][^2]
     - Vendredi : repli de **‑0,47%** à 8 580,75 points, clôture de la semaine avec une avance nette sur la semaine.[^2][^1]
+
+
+    ## 🇫🇷 CAC 40 : semaine de records
+
+| Jour | Variation | Clôture | Événement clé |
+|------|-----------|---------|---------------|
+| Lundi 23 | -0,22 % | 8 497,17 | Surprise Cour suprême US sur droits de douane Trump, incertitude commerciale. |
+| Mardi 24 | +0,26 % | 8 519,21 | Reprise tech/semi-conducteurs (Nvidia, AMD avant résultats). |
+| Mercredi 25 | +0,47 % | 8 559,07 | Nouveau record clôture (haut intra : 8 560,91). |
+| Jeudi 26 | +0,72 % | 8 620,93 | 1er franchissement 8 600 ; bons résultats Schneider Electric, Axa. |
+| Vendredi 27 | -0,47 % | 8 580,75 | Prises de bénéfices, craintes IA macroéconomique. |
+
+## 🇫🇷 CAC 40 : Semaine de records
+
+| Jour   | Variation | Clôture  | Événement clé                                    |
+|--------|-----------|----------|--------------------------------------------------|
+| Lun 23 | -0,22 %   | 8 497,17 | Surprise Cour suprême US douanes Trump          |
+| Mar 24 | +0,26 %   | 8 519,21 | Reprise tech / semi-conducteurs (Nvidia+)       |
+| Mer 25 | +0,47 %   | 8 559,07 | Record clôture (haut intrajournalier 8 560,91)  |
+| Jeu 26 | +0,72 %   | 8 620,93 | 1er > 8 600, Schneider / Axa solides            |
+| Ven 27 | -0,47 %   | 8 580,75 | Prises de bénéfices, craintes sur l’IA          |
+
+**Bilan** : +1,01 % sur la semaine, records historiques jeudi.
+
+## 🇫🇷 CAC 40 : Semaine de records
+
+| Jour   | Variation | Clôture  | Événement clé                                    |
+|--------|-----------|----------|--------------------------------------------------|
+| Lun 23 | -0,22 %   | 8 497,17 | Surprise Cour suprême US douanes Trump          |
+| Mar 24 | +0,26 %   | 8 519,21 | Reprise tech / semi-conducteurs (Nvidia+)       |
+| Mer 25 | +0,47 %   | 8 559,07 | Record clôture (haut intrajournalier 8 560,91)  |
+| Jeu 26 | +0,72 %   | 8 620,93 | 1er > 8 600, Schneider / Axa solides            |
+| Ven 27 | -0,47 %   | 8 580,75 | Prises de bénéfices, craintes sur l’IA          |
+
+**Bilan** : +1,01 % sur la semaine, records historiques jeudi.
+
+**Bilan hebdo** : Nette progression > +1 %, accumulation de sommets historiques avec légère correction vendredi. [cite:34]
+
 - **Autres places européennes**
     - Les Bourses de **Milan** (‑0,46%) et **Francfort** (‑0,02%) ont légèrement lâché pied vendredi, tandis que **Londres** finissait en hausse (+0,70%) avec des records en séance et en clôture.[^1]
     - L’ensemble de la zone euro reste soutenu par une dynamique positive des résultats trimestriels et une meilleure tolérance aux risques géopolitiques.[^5][^3]
@@ -29,6 +67,16 @@ Les marchés américains ont également fini sur une note positive, portés par 
     - Forte remontée liée aux semi‑conducteurs et aux valeurs liées à l’IA :
         - +1,05% mardi à 22 863,68 points, puis +1,26% mercredi à 23 152,08 points.[^1]
     - Malgré ce rebond, le Nasdaq reste en retrait sur le mois, avec une baisse d’environ **5%** sur 30 jours, sa plus forte contre‑performance depuis près d’un an.[^3]
+
+## 🇺🇸 Wall Street : séance contrastée
+
+| Jour | Nasdaq | S&P 500 | Dow Jones | Événement clé |
+|------|--------|---------|-----------|---------------|
+| Lundi 23 | -1 % | -1 % | -1 % | Doute droits de douane US. |
+| Mardi/Mercredi | +0,7 à +1,3 % | - | - | Reprise tech/semi-conducteurs. |
+| Jeudi 26 | -1,18 % | -0,54 % | Équilibre | Résultats Nvidia décevants. |
+| Vendredi 27 | Légère hausse hebdo | Légère hausse hebdo | - | Mois de février en baisse pour S&P/Nasdaq. |
+
 
 
 ### Thèmes et facteurs majeurs de la semaine
@@ -52,11 +100,6 @@ Les marchés américains ont également fini sur une note positive, portés par 
 - **Asie** :
     - Le **Nikkei 225** progresse légèrement, avec un gain de **+0,31%** sur la séquence, tandis que le **CSI 300** chinois gagne environ **+1,62%** et le **Hang Seng** de Hong Kong **+0,22%**, dans une ambiance perturbée par les fêtes du Nouvel An lunaire.[^4][^3]
 
-***
-
-<span style="display:none">[^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^6][^7][^8][^9]</span>
-
-<div align="center">⁂</div>
 
 [^1]: https://www.boursorama.com/bourse/actualites/une-semaine-sur-les-marches-le-recap-du-23-au-27-fevrier-f957ed8455dd22adac64d81cfdfbe159
 
