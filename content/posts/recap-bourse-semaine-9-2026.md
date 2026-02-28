@@ -12,22 +12,17 @@ Les marchés actions ont affiché une **tendance globalement positive** sur la s
 
 En Europe, le **CAC 40** a gravé de nouveaux records intra‑séance et en clôture, tandis que **Wall Street** terminait en ordre plus dispersé, avec des indices légèrement positifs sur l’ensemble de la semaine mais des prises de bénéfices sur certains segments tech. [cite:34]
 
-## 🇫🇷 CAC 40 : semaine de records
 
 ## 🇫🇷 CAC 40 : Semaine de records
 
-<table class="bourse-table">
-<thead>
-<tr><th>Jour & Variation</th><th>Clôture</th><th>Événement clé</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>Lun 23</strong><br>-0,22 %</td><td style="font-family:monospace;">8 497,17</td><td>Surprise Cour suprême US douanes</td></tr>
-<tr><td><strong>Mar 24</strong><br>+0,26 %</td><td style="font-family:monospace;">8 519,21</td><td>Reprise tech Nvidia/AMD</td></tr>
-<tr><td><strong>Mer 25</strong><br>+0,47 %</td><td style="font-family:monospace;">8 559,07</td><td><strong>Record clôture**</strong></td></tr>
-<tr><td><strong>Jeu 26</strong><br>+0,72 %</td><td style="font-family:monospace;">**8 620,93**</td><td><strong>1er > 8 600** Schneider/Axa</td></tr>
-<tr><td><strong>Ven 27</strong><br>-0,47 %</td><td style="font-family:monospace;">8 580,75</td><td>Prises bénéfices IA</td></tr>
-</tbody>
-</table>
+| Jour & Variation | Clôture  | Événement clé                  |
+|------------------|----------|--------------------------------|
+| **Lun 23** -0,22 % | 8 497,17 | Surprise Cour suprême US       |
+| **Mar 24** +0,26 % | 8 519,21 | Reprise tech Nvidia/AMD        |
+| **Mer 25** +0,47 % | 8 559,07 | **Record clôture**             |
+| **Jeu 26** +0,72 % | 8 620,93 | **1er > 8 600** Schneider/Axa |
+| **Ven 27** -0,47 % | 8 580,75 | Prises bénéfices IA            |
+
 
 **Bilan** : **+1,01 %** semaine, records jeudi.
 
