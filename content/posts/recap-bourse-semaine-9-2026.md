@@ -14,24 +14,24 @@ En Europe, le **CAC 40** a gravé de nouveaux records intra‑séance et en clô
 
 ## 🇫🇷 CAC 40 : semaine de records
 
-| Jour | Variation | Clôture | Événement clé |
-|------|-----------|---------|---------------|
-| Lundi 23 | -0,22 % | 8 497,17 | Surprise Cour suprême US sur droits de douane Trump, incertitude commerciale. |
-| Mardi 24 | +0,26 % | 8 519,21 | Reprise tech/semi-conducteurs (Nvidia, AMD avant résultats). |
-| Mercredi 25 | +0,47 % | 8 559,07 | Nouveau record clôture (haut intra : 8 560,91). |
-| Jeudi 26 | +0,72 % | 8 620,93 | 1er franchissement 8 600 ; bons résultats Schneider Electric, Axa. |
-| Vendredi 27 | -0,47 % | 8 580,75 | Prises de bénéfices, craintes IA macroéconomique. |
+| Jour & Variation | Clôture  | Événement clé                           |
+| ---------------- | -------- | --------------------------------------- |
+| Lun 23-0,22%     | 8 497,17 | Surprise Cour suprême US douanes Trump  |
+| Mar 24+0,26%     | 8 519,21 | Reprise tech/semi-conducteurs (Nvidia+) |
+| Mer 25+0,47%     | 8 559,07 | Record clôture (haut 8 560,91)          |
+| Jeu 26+0,72%     | 8 620,93 | 1er > 8 600 Schneider/Axa solides       |
+| Ven 27-0,47%     | 8 580,75 | Prises bénéfices + craintes IA          |
 
 **Bilan hebdo** : Nette progression > +1 %, accumulation de sommets historiques avec légère correction vendredi. [cite:34]
 
 ## 🇺🇸 Wall Street : séance contrastée
 
-| Jour | Nasdaq | S&P 500 | Dow Jones | Événement clé |
-|------|--------|---------|-----------|---------------|
-| Lundi 23 | -1 % | -1 % | -1 % | Doute droits de douane US. |
-| Mardi/Mercredi | +0,7 à +1,3 % | - | - | Reprise tech/semi-conducteurs. |
-| Jeudi 26 | -1,18 % | -0,54 % | Équilibre | Résultats Nvidia décevants. |
-| Vendredi 27 | Légère hausse hebdo | Légère hausse hebdo | - | Mois de février en baisse pour S&P/Nasdaq. |
+| Jour    | Nasdaq      | S&P 500 | Dow Jones | Événement clé       |
+| ------- | ----------- | ------- | --------- | ------------------- |
+| Lun 23  | -1%         | -1%     | -1%       | Doute douanes US    |
+| Mar/Mer | +0,7/1,3%   | -       | -         | Reprise tech        |
+| Jeu 26  | -1,18%      | -0,54%  | ≈0%       | Nvidia déçoit (-4%) |
+| Ven 27  | +0,5% hebdo | +0,68%  | +0,4%     | Mois février ↓      |
 
 ## 📌 Thèmes majeurs de la semaine
 
