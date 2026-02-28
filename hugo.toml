@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'fr-fr'
-title = 'Project Info Bourse'
+title = 'Radar Bourse & Idées d’Investissement'
 theme = 'ananke'
 [params]
   custom_css = ["custom.css"]
