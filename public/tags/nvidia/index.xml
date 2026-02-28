@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nvidia on Project Info Bourse</title>
+    <link>http://localhost:1313/tags/nvidia/</link>
+    <description>Recent content in Nvidia on Project Info Bourse</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bilan bourse 23-27 février 2026</title>
+      <link>http://localhost:1313/posts/recap-bourse-semaine-9-2026/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/recap-bourse-semaine-9-2026/</guid>
+      <description>&lt;h1 id=&#34;-bilan-général-de-la-semaine&#34;&gt;🔎 Bilan général de la semaine&lt;/h1&gt;&#xA;&lt;p&gt;La semaine 23-27 février 2026 confirme la dynamique haussière des marchés européens, &lt;strong&gt;portés par une salve de résultats solides&lt;/strong&gt; (Schneider, Axa, Bouygues, Edenred) et une rotation sectorielle favorable à l&amp;rsquo;&amp;ldquo;ancienne économie&amp;rdquo;. [web:17][web:66]&lt;/p&gt;&#xA;&lt;p&gt;Le &lt;strong&gt;CAC 40&lt;/strong&gt; enchaîne 4 records consécutifs, franchissant les &lt;strong&gt;8 600 pts&lt;/strong&gt; jeudi pour la 1ère fois, malgré correction vendredi (-0,47 %) sur craintes IA et géopolitique. Volumes élevés (7,5 Md€ vendredi). &lt;strong&gt;+1,01 %&lt;/strong&gt; semaine, meilleur février depuis 2024. [web:17][web:68]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,23 +1,21 @@
-.bourse-table {
-  width: 100%; 
-  table-layout: fixed; 
-  font-size: 0.88em; 
-  margin: 1.5em 0;
-  border-collapse: collapse; 
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+/* Force tables Hugo Ananke */
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  margin: 2em 0 !important;
+  border: 3px solid #333 !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
 }
-.bourse-table th, .bourse-table td {
-  padding: 12px 8px; 
-  border: 2px solid #333 !important; 
-  vertical-align: top; 
-  text-align: left;
+table th, table td {
+  border: 2px solid #444 !important;
+  padding: 12px 10px !important;
+  text-align: left !important;
 }
-.bourse-table th {
-  background: #f8f9fa; 
-  font-weight: bold; 
-  font-size: 0.9em;
+table th {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  color: white !important;
+  font-weight: bold !important;
 }
-.bourse-table td:first-child { width: 20%; }
-.bourse-table td:nth-child(2) { width: 13%; text-align: right; font-family: 'Courier New', monospace; }
-.bourse-table tr:nth-child(even) { background: #f8f9fa; }
-.bourse-table tr:hover { background: #e9ecef; }
+table tr:nth-child(even) { background: #f8f9fa !important; }
+table tr:hover { background: #e3f2fd !important; }
+table td:last-child { font-size: 0.9em; }
