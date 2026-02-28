@@ -1,6 +1,10 @@
-***
-
-### Général – Bourse (semaine du 23 au 27 février 2026)
+---
+title: "Général – Bourse (semaine du 23 au 27 février 2026)"
+date: 2026-02-28T17:05:00+01:00
+draft: false
+slug: "recap-semaine-23-au-27-fevrier-2026"
+summary: ""
+---
 
 La semaine s’est globalement soldée sur une **tendance positive en Europe**, avec un **CAC 40** qui a enchaîné plusieurs séances noires puis des records successifs, avant une légère correction en fin de semaine.[^1][^2]
 Les marchés américains ont également fini sur une note positive, portés par les **technologies** et les publications de résultats (dont Nvidia), malgré une hausse de la volatilité et des inquiétudes autour de l’IA et des tensions géopolitiques.[^3][^4][^1]
