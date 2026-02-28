@@ -19,3 +19,43 @@ table th {
 table tr:nth-child(even) { background: #f8f9fa !important; }
 table tr:hover { background: #e3f2fd !important; }
 table td:last-child { font-size: 0.9em; }
+
+.portfolio-table {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background: linear-gradient(145deg, #f9f9f9, #ffffff);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 14px;
+}
+
+.portfolio-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+.portfolio-table th,
+.portfolio-table td {
+  border: 1px solid #d0d0d0;
+  padding: 12px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.portfolio-table th {
+  background: linear-gradient(145deg, #e8e8e8, #f0f0f0);
+  font-weight: 600;
+  color: #333;
+  white-space: nowrap;
+}
+
+.portfolio-table td {
+  background: #fafafa;
+}
+
+.portfolio-table tr:hover td {
+  background: #f0f8ff;
+}
+
