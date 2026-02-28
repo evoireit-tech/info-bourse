@@ -115,8 +115,6 @@ Répartition sur 4 lignes, de préférence éligibles PEA :
 
 **Total portefeuille** : **5 000 €** | **Risque** : Agressif | **Horizon** : 5+ ans
 
-***
-
 ## Rythme d’investissement
 
 - Investissement progressif recommandé : par exemple 3 vagues de 1 666 € espacées de 1 à 3 mois pour lisser les points d’entrée (DCA).
