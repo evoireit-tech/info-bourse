@@ -1,0 +1,10 @@
+* Élargit le contenu principal */
+.content { max-width: 90%; margin: 0 auto; }
+
+/* Tableaux full-width */
+.post table, .page table { 
+  width: 100%; 
+  table-layout: fixed; 
+  font-size: 0.95em; 
+}
+.post th, .post td { padding: 8px; border: 1px solid #ddd; }
