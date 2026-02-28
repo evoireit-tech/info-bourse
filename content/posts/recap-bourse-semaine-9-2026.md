@@ -1,4 +1,4 @@
-## 🔎 Bilan général de la semaine
+## 🔎 Bilan général de la semaine du 23 au 27 février 2026
 
 Les marchés actions ont affiché une **tendance globalement positive sur la semaine**, portés par la publication d’une série de résultats d’entreprises et par la dynamique des grandes valeurs technologiques, malgré une hausse de la volatilité en fin de semaine.[^1][^2]
 En Europe, le CAC 40 a gravé de **nouveaux records intra‑séance et en clôture**, tandis que Wall Street terminait en ordre plus dispersé, avec des indices légèrement positifs sur l’ensemble de la semaine mais des prises de bénéfices sur certains segments tech.[^3][^1]
@@ -50,6 +50,7 @@ Les décisions de la Cour suprême américaine sur les droits de douane ont rapp
 ***
 
 
+<span style="display:none">[^10][^11][^12][^13][^14][^15][^7][^8][^9]</span>
 
 <div align="center">⁂</div>
 
