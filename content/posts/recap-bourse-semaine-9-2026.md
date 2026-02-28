@@ -14,24 +14,67 @@ En Europe, le **CAC 40** a gravé de nouveaux records intra‑séance et en clô
 
 ## 🇫🇷 CAC 40 : semaine de records
 
-| Jour & Variation | Clôture  | Événement clé                           |
-| ---------------- | -------- | --------------------------------------- |
-| Lun 23-0,22%     | 8 497,17 | Surprise Cour suprême US douanes Trump  |
-| Mar 24+0,26%     | 8 519,21 | Reprise tech/semi-conducteurs (Nvidia+) |
-| Mer 25+0,47%     | 8 559,07 | Record clôture (haut 8 560,91)          |
-| Jeu 26+0,72%     | 8 620,93 | 1er > 8 600 Schneider/Axa solides       |
-| Ven 27-0,47%     | 8 580,75 | Prises bénéfices + craintes IA          |
+## 🇫🇷 CAC 40 : Semaine de records
 
-**Bilan hebdo** : Nette progression > +1 %, accumulation de sommets historiques avec légère correction vendredi. [cite:34]
+<table class="bourse-table">
+<thead>
+<tr><th>Jour & Variation</th><th>Clôture</th><th>Événement clé</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Lun 23</strong><br>-0,22 %</td><td style="font-family:monospace;">8 497,17</td><td>Surprise Cour suprême US douanes</td></tr>
+<tr><td><strong>Mar 24</strong><br>+0,26 %</td><td style="font-family:monospace;">8 519,21</td><td>Reprise tech Nvidia/AMD</td></tr>
+<tr><td><strong>Mer 25</strong><br>+0,47 %</td><td style="font-family:monospace;">8 559,07</td><td><strong>Record clôture**</strong></td></tr>
+<tr><td><strong>Jeu 26</strong><br>+0,72 %</td><td style="font-family:monospace;">**8 620,93**</td><td><strong>1er > 8 600** Schneider/Axa</td></tr>
+<tr><td><strong>Ven 27</strong><br>-0,47 %</td><td style="font-family:monospace;">8 580,75</td><td>Prises bénéfices IA</td></tr>
+</tbody>
+</table>
+
+**Bilan** : **+1,01 %** semaine, records jeudi.
 
 ## 🇺🇸 Wall Street : séance contrastée
 
-| Jour    | Nasdaq      | S&P 500 | Dow Jones | Événement clé       |
-| ------- | ----------- | ------- | --------- | ------------------- |
-| Lun 23  | -1%         | -1%     | -1%       | Doute douanes US    |
-| Mar/Mer | +0,7/1,3%   | -       | -         | Reprise tech        |
-| Jeu 26  | -1,18%      | -0,54%  | ≈0%       | Nvidia déçoit (-4%) |
-| Ven 27  | +0,5% hebdo | +0,68%  | +0,4%     | Mois février ↓      |
+<table class="bourse-table">
+<thead>
+<tr>
+  <th>Jour</th>
+  <th>Nasdaq</th>
+  <th>S&P 500</th>
+  <th>Dow Jones</th>
+  <th>Événement clé</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Lun 23</strong></td>
+  <td style="font-family:monospace;">-1 %</td>
+  <td style="font-family:monospace;">-1 %</td>
+  <td style="font-family:monospace;">-1 %</td>
+  <td>Doute douanes US</td>
+</tr>
+<tr>
+  <td><strong>Mar/Mer</strong></td>
+  <td style="font-family:monospace;">+0,7/1,3 %</td>
+  <td>-</td>
+  <td>-</td>
+  <td>Reprise tech</td>
+</tr>
+<tr style="background:#ffebee;">
+  <td><strong>Jeu 26</strong></td>
+  <td style="font-family:monospace;"><strong>-1,18 %</strong></td>
+  <td style="font-family:monospace;">-0,54 %</td>
+  <td style="font-family:monospace;">≈0 %</td>
+  <td><strong>Nvidia déçoit (-4 %)</strong></td>
+</tr>
+<tr>
+  <td><strong>Ven 27</strong></td>
+  <td style="font-family:monospace;">+0,5 % hebdo</td>
+  <td style="font-family:monospace;">+0,68 %</td>
+  <td style="font-family:monospace;">+0,4 %</td>
+  <td>Mois février ↓</td>
+</tr>
+</tbody>
+</table>
+
 
 ## 📌 Thèmes majeurs de la semaine
 
