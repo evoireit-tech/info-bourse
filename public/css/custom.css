@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+  .content { max-width: 1200px; }
+}
+table { 
+  margin: 1em 0; 
+  border-collapse: collapse; 
+  width: 100%; 
+}
