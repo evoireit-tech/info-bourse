@@ -48,6 +48,52 @@ Les marchés américains ont également fini sur une note positive, portés par 
 | Ven 27 | -0,47 %   | 8 580,75 | Prises de bénéfices, craintes sur l’IA          |
 
 **Bilan** : +1,01 % sur la semaine, records historiques jeudi.
+## 🇫🇷 CAC 40 : Semaine de records
+
+<table border="1" style="border-collapse:collapse; border:1px solid #555;">
+  <thead>
+    <tr>
+      <th style="padding:6px 8px; border:1px solid #555;">Jour</th>
+      <th style="padding:6px 8px; border:1px solid #555;">Variation</th>
+      <th style="padding:6px 8px; border:1px solid #555;">Clôture</th>
+      <th style="padding:6px 8px; border:1px solid #555;">Événement clé</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Lun 23</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-0,22&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">8&nbsp;497,17</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Surprise Cour suprême US douanes Trump</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Mar 24</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,26&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">8&nbsp;519,21</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Reprise tech / semi-conducteurs (Nvidia+)</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Mer 25</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,47&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">8&nbsp;559,07</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Record clôture (haut intrajournalier 8&nbsp;560,91)</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Jeu 26</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,72&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">8&nbsp;620,93</td>
+      <td style="padding:6px 8px; border:1px solid #555;">1er &gt; 8&nbsp;600, Schneider / Axa solides</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Ven 27</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-0,47&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">8&nbsp;580,75</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Prises de bénéfices, craintes sur l’IA</td>
+    </tr>
+  </tbody>
+</table>
+
+**Bilan** : +1,01&nbsp;% sur la semaine, records historiques jeudi.
 
 **Bilan hebdo** : Nette progression > +1 %, accumulation de sommets historiques avec légère correction vendredi. [cite:34]
 
