@@ -1,6 +1,8 @@
 ---
 title: "Plan d’investissement 5 000 €"
-date: 2026-02-28T17:05:00+01:00
+date: 2026-02-28
+section: posts
+weight: 1
 draft: false
 slug: ""
 summary: "Plan d’investissement 5 000 € actions + ETF (profil dynamique)"
@@ -137,7 +139,6 @@ Répartition sur 4 lignes, de préférence éligibles PEA :
 > Les ETF et actions cités comme exemples sont mentionnés à titre illustratif uniquement.
 > Les **performances passées ne préjugent pas des performances futures**, les marchés financiers comportent un risque de perte en capital, pouvant aller jusqu’à la perte totale du montant investi. Avant toute décision, vérifie les caractéristiques (frais, éligibilité PEA, liquidité) sur le site de ton intermédiaire et, si besoin, consulte un professionnel habilité.[^9][^10]
 
-***
 
 [^1]: https://www.ramify.fr/pea/etf
 

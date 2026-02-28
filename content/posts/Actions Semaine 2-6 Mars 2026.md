@@ -1,6 +1,8 @@
 ---
 title: "Actions à suivre du 2 au 6 mars 2026"
-date: 2026-02-28T17:05:00+01:00
+ate: 2026-02-28
+section: posts
+weight: 2
 draft: false
 slug: "actions-a-suivre-2-6-mars-2026"
 summary: "Sélection d’actions françaises et européennes à surveiller la semaine du 2 au 6 mars 2026, avec focus sur publications de résultats et contexte macro."
