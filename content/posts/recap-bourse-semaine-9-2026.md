@@ -1,5 +1,5 @@
 ---
-title: "Bilan semaine du 23 au 27 février 2026"
+title: "Bilan du 23 au 27 février 2026"
 date: 2026-02-28
 draft: false
 description: "Récapitulatif complet des marchés : records du CAC 40, résultats d'entreprises, tech/IA et Wall Street."
