@@ -7,47 +7,6 @@ Les marchés américains ont également fini sur une note positive, portés par 
 
 ### Principaux indices européens
 
-- **CAC 40**
-    - Début de semaine : repli de **‑0,22%** lundi à 8 497,17 points, puis reprise progressive.[^2][^1]
-    - Mardi : **+0,26%** à 8 519,21 points.[^1][^2]
-    - Mercredi : **+0,47%** à 8 559,07 points, nouveau record en clôture.[^2][^1]
-    - Jeudi : **+0,72%** à 8 620,93 points, premier franchissement des 8 600 en clôture.[^1][^2]
-    - Vendredi : repli de **‑0,47%** à 8 580,75 points, clôture de la semaine avec une avance nette sur la semaine.[^2][^1]
-
-
-    ## 🇫🇷 CAC 40 : semaine de records
-
-| Jour | Variation | Clôture | Événement clé |
-|------|-----------|---------|---------------|
-| Lundi 23 | -0,22 % | 8 497,17 | Surprise Cour suprême US sur droits de douane Trump, incertitude commerciale. |
-| Mardi 24 | +0,26 % | 8 519,21 | Reprise tech/semi-conducteurs (Nvidia, AMD avant résultats). |
-| Mercredi 25 | +0,47 % | 8 559,07 | Nouveau record clôture (haut intra : 8 560,91). |
-| Jeudi 26 | +0,72 % | 8 620,93 | 1er franchissement 8 600 ; bons résultats Schneider Electric, Axa. |
-| Vendredi 27 | -0,47 % | 8 580,75 | Prises de bénéfices, craintes IA macroéconomique. |
-
-## 🇫🇷 CAC 40 : Semaine de records
-
-| Jour   | Variation | Clôture  | Événement clé                                    |
-|--------|-----------|----------|--------------------------------------------------|
-| Lun 23 | -0,22 %   | 8 497,17 | Surprise Cour suprême US douanes Trump          |
-| Mar 24 | +0,26 %   | 8 519,21 | Reprise tech / semi-conducteurs (Nvidia+)       |
-| Mer 25 | +0,47 %   | 8 559,07 | Record clôture (haut intrajournalier 8 560,91)  |
-| Jeu 26 | +0,72 %   | 8 620,93 | 1er > 8 600, Schneider / Axa solides            |
-| Ven 27 | -0,47 %   | 8 580,75 | Prises de bénéfices, craintes sur l’IA          |
-
-**Bilan** : +1,01 % sur la semaine, records historiques jeudi.
-
-## 🇫🇷 CAC 40 : Semaine de records
-
-| Jour   | Variation | Clôture  | Événement clé                                    |
-|--------|-----------|----------|--------------------------------------------------|
-| Lun 23 | -0,22 %   | 8 497,17 | Surprise Cour suprême US douanes Trump          |
-| Mar 24 | +0,26 %   | 8 519,21 | Reprise tech / semi-conducteurs (Nvidia+)       |
-| Mer 25 | +0,47 %   | 8 559,07 | Record clôture (haut intrajournalier 8 560,91)  |
-| Jeu 26 | +0,72 %   | 8 620,93 | 1er > 8 600, Schneider / Axa solides            |
-| Ven 27 | -0,47 %   | 8 580,75 | Prises de bénéfices, craintes sur l’IA          |
-
-**Bilan** : +1,01 % sur la semaine, records historiques jeudi.
 ## 🇫🇷 CAC 40 : Semaine de records
 
 <table border="1" style="border-collapse:collapse; border:1px solid #555;">
@@ -67,7 +26,7 @@ Les marchés américains ont également fini sur une note positive, portés par 
       <td style="padding:6px 8px; border:1px solid #555;">Surprise Cour suprême US douanes Trump</td>
     </tr>
     <tr>
-      <td style="padding:6px 8px; border:1px solid #555;">Mar 24</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Mar&nbsp;24</td>
       <td style="padding:6px 8px; border:1px solid #555;">+0,26&nbsp;%</td>
       <td style="padding:6px 8px; border:1px solid #555;">8&nbsp;519,21</td>
       <td style="padding:6px 8px; border:1px solid #555;">Reprise tech / semi-conducteurs (Nvidia+)</td>
@@ -93,9 +52,7 @@ Les marchés américains ont également fini sur une note positive, portés par 
   </tbody>
 </table>
 
-**Bilan** : +1,01&nbsp;% sur la semaine, records historiques jeudi.
-
-**Bilan hebdo** : Nette progression > +1 %, accumulation de sommets historiques avec légère correction vendredi. [cite:34]
+**Bilan hebdo** : Nette progression > +1 %, accumulation de sommets historiques avec légère correction vendredi.
 
 - **Autres places européennes**
     - Les Bourses de **Milan** (‑0,46%) et **Francfort** (‑0,02%) ont légèrement lâché pied vendredi, tandis que **Londres** finissait en hausse (+0,70%) avec des records en séance et en clôture.[^1]
@@ -104,26 +61,56 @@ Les marchés américains ont également fini sur une note positive, portés par 
 
 ### Marchés américains
 
-- **Dow Jones** :
-    - Progression de **+0,76%** mardi à 49 482,15 points, puis +0,63% mercredi à 49 482,15 points, dans une ambiance de reprise sectorielle.[^1]
-    - La semaine reste positive sur fond de résultats et de rebond technologique, malgré une hausse de la volatilité implicite.[^4][^3]
-- **S\&P 500** :
-    - L’indice évolue autour de 6 890 points fin de semaine, avec une hausse d’environ **+0,68%** sur la séquence, soutenu par les secteurs technologiques et financiers.[^3][^4]
-- **Nasdaq Composite** :
-    - Forte remontée liée aux semi‑conducteurs et aux valeurs liées à l’IA :
-        - +1,05% mardi à 22 863,68 points, puis +1,26% mercredi à 23 152,08 points.[^1]
-    - Malgré ce rebond, le Nasdaq reste en retrait sur le mois, avec une baisse d’environ **5%** sur 30 jours, sa plus forte contre‑performance depuis près d’un an.[^3]
+<h2>🇺🇸 Wall Street : séance contrastée</h2>
 
-## 🇺🇸 Wall Street : séance contrastée
-
-| Jour | Nasdaq | S&P 500 | Dow Jones | Événement clé |
-|------|--------|---------|-----------|---------------|
-| Lundi 23 | -1 % | -1 % | -1 % | Doute droits de douane US. |
-| Mardi/Mercredi | +0,7 à +1,3 % | - | - | Reprise tech/semi-conducteurs. |
-| Jeudi 26 | -1,18 % | -0,54 % | Équilibre | Résultats Nvidia décevants. |
-| Vendredi 27 | Légère hausse hebdo | Légère hausse hebdo | - | Mois de février en baisse pour S&P/Nasdaq. |
-
-
+<table border="1" style="border-collapse:collapse; border:1px solid #555; width:100%;">
+  <thead>
+    <tr>
+      <th style="padding:6px 8px; border:1px solid #555;">Jour</th>
+      <th style="padding:6px 8px; border:1px solid #555;">Nasdaq</th>
+      <th style="padding:6px 8px; border:1px solid #555;">S&amp;P 500</th>
+      <th style="padding:6px 8px; border:1px solid #555;">Dow Jones</th>
+      <th style="padding:6px 8px; border:1px solid #555;">Événement clé</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Lun&nbsp;23</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-1&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-1&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-1&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Doute droits de douane US</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Mar&nbsp;24</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,7&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">≈0&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,3&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Reprise tech / semi-conducteurs</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Mer&nbsp;25</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+1,3&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,6&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">+0,6&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Poursuite rebond tech</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Jeu&nbsp;26</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-1,18&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">-0,54&nbsp;%</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Équilibre</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Résultats Nvidia décevants</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 8px; border:1px solid #555;">Ven&nbsp;27</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Légère hausse hebdo</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Légère hausse hebdo</td>
+      <td style="padding:6px 8px; border:1px solid #555;">–</td>
+      <td style="padding:6px 8px; border:1px solid #555;">Mois de février en baisse pour S&amp;P/Nasdaq</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Thèmes et facteurs majeurs de la semaine
 

@@ -4,3 +4,8 @@ title = 'Project Info Bourse'
 theme = 'ananke'
 [params]
   custom_css = ["custom.css"]
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
