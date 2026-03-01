@@ -2,17 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/investissement-5000-etf---actions/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/actions-a-suivre-2-6-mars-2026/</loc>
-    <lastmod>2026-02-28T17:05:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/recap-semaine-23-au-27-fevrier-2026/</loc>
-    <lastmod>2026-02-28T17:05:00+01:00</lastmod>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-28T17:05:00+01:00</lastmod>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-28T17:05:00+01:00</lastmod>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/comparaison_tf1_m6_nrj_mars_2026/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
