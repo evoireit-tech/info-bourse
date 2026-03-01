@@ -2,11 +2,14 @@
 title: "Comparatif Actions Médias : M6, TF1 et NRJ Group – Quelle valeur privilégier en 2026 ?"
 date: 2026-03-01
 section: posts
-weight: 1
+weight: 2
 draft: false
-author: "Perplexity Bourse Insights"
+summary: "Dans un secteur médias TV/radio sous pression publicitaire, M6 (MMT), TF1 (TFI) et NRJ Group (NRG) se distinguent par leurs **dividendes élevés et bilans solides**."
+author: ""
 tags: ["bourse", "medias", "dividendes", "TF1", "M6", "NRJ"]
 ---
+
+***
 
 Dans un secteur médias TV/radio sous pression publicitaire, M6 (MMT), TF1 (TFI) et NRJ Group (NRG) se distinguent par leurs **dividendes élevés et bilans solides**. Analyse des ratios clés (PER, dette, endettement) et perspectives court terme. [<a href="https://www.boursorama.com/cours/1rPMMT/">Boursorama M6</a>][<a href="https://www.boursorama.com/cours/1rPTFI/">Boursorama TF1</a>][<a href="https://www.zonebourse.com/cours/action/NRJ-GROUP-4678/">Zonebourse NRJ</a>]
 
@@ -105,4 +108,7 @@ Cours actualisé 1er mars 2026 : **M6 ~11,5 €, TF1 ~7,27 € (+2,18 % sem.), N
 
 **Verdict** : **TF1 prioritaire** (stabilité + yield). M6 risque baisse, NRJ pari croissance radio. Surveillez pubs Q1 ! [<a href="https://www.boursorama.com/cours/1rPTFI/">TF1 live</a>] 
 
+**Disclaimer** : Analyse prospective. Pas conseil investissement. Consultez professionnel.
 *Sources : Boursorama, Zonebourse. Pas de conseil – DYOR.* 🚀
+
+

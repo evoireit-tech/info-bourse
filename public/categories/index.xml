@@ -6,6 +6,28 @@
     <description>Recent content in Categories on Radar Bourse &amp; Idées d’Investissement</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bourse</title>
+      <link>http://localhost:1313/categories/bourse/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bourse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geopolitique</title>
+      <link>http://localhost:1313/categories/geopolitique/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/geopolitique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Petrole</title>
+      <link>http://localhost:1313/categories/petrole/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/petrole/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

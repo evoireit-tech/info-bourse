@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TF1 on Radar Bourse &amp; Idées d’Investissement</title>
-    <link>http://localhost:1313/tags/tf1/</link>
-    <description>Recent content in TF1 on Radar Bourse &amp; Idées d’Investissement</description>
+    <title>Iran on Radar Bourse &amp; Idées d’Investissement</title>
+    <link>http://localhost:1313/tags/iran/</link>
+    <description>Recent content in Iran on Radar Bourse &amp; Idées d’Investissement</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tf1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Comparatif Actions Médias : M6, TF1 et NRJ Group – Quelle valeur privilégier en 2026 ?</title>
-      <link>http://localhost:1313/posts/comparaison_tf1_m6_nrj_mars_2026/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/comparaison_tf1_m6_nrj_mars_2026/</guid>
-      <description>&lt;p&gt;Dans un secteur médias TV/radio sous pression publicitaire, M6 (MMT), TF1 (TFI) et NRJ Group (NRG) se distinguent par leurs &lt;strong&gt;dividendes élevés et bilans solides&lt;/strong&gt;. Analyse des ratios clés (PER, dette, endettement) et perspectives court terme. [&lt;a href=&#34;https://www.boursorama.com/cours/1rPMMT/&#34;&gt;Boursorama M6&lt;/a&gt;][&lt;a href=&#34;https://www.boursorama.com/cours/1rPTFI/&#34;&gt;Boursorama TF1&lt;/a&gt;][&lt;a href=&#34;https://www.zonebourse.com/cours/action/NRJ-GROUP-4678/&#34;&gt;Zonebourse NRJ&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;h2 id=&#34;aperçu-cours-et-valorisation&#34;&gt;Aperçu Cours et Valorisation&lt;/h2&gt;&#xA;&lt;p&gt;Cours actualisé 1er mars 2026 : &lt;strong&gt;M6 ~11,5 €, TF1 ~7,27 € (+2,18 % sem.), NRJ ~7,1 €&lt;/strong&gt;. Tous sous-évalués (PER &amp;lt;15x), avec &lt;strong&gt;TF1 en meilleur équilibre&lt;/strong&gt; dividende/croissance.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/iran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impacts Iran sur Actions : Semaine 2 Mars 2026</title>
       <link>http://localhost:1313/posts/iran-impacts-2026-03-01/</link>
